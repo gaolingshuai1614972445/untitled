@@ -1,7 +1,7 @@
 package ch05;
 
 public class Fu {
-    private  String f;
+    private  String f="iiiiii";
 
     public Fu() {
         System.out.println("fu:"+f);

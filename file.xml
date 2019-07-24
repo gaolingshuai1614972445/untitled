@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuation>
+    <title>
+        Helvetical
+        <font>
+            helvetical
+        </font>
+        <size unit = "pt">36</size><!--注释 -->
+        <![CDATA[
+        sadddadsaaaaaaaaaaaaaaaaaaaaaaaaa
+        ]]>    <!--里面可以放任何字节大于小于号等-->
+
+        <!--1.DOM树型解析 一次性读入内存.-->
+    </title>
+
+</configuation>

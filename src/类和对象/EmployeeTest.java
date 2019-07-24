@@ -13,7 +13,9 @@ public class EmployeeTest {
             System.out.println(staff[i]);
         for(Employee e : staff)
             System.out.println(e);
-        Arrays.stream(staff).forEach(System.out::println);
+        //for(类型 任意的变量名：数组名）
+        Arrays.stream(staff).forEach(System.out::println);//lambda表达式
         Employee e =new Employee("tome",782222,LocalDate.now());
+
     }
 }
